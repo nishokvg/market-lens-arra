@@ -1,0 +1,76 @@
+{
+  "data_origin": "DEMO_MODE sample evidence for classroom demonstration only; this is not live web research.",
+  "company_name": "Arra Global LLC",
+  "target_market": "United States",
+  "competitors": [
+    "Demo Apparel Supply",
+    "Demo Uniform Works",
+    "Demo Activewear Co"
+  ],
+  "comparison_rows": [
+    {
+      "Competitor": "Demo Apparel Supply",
+      "MOQ": "Typical sample MOQ is 500 units",
+      "pricing": "Unknown",
+      "materials": "Demo Apparel Supply offers custom cotton T-shirts and polos",
+      "customization": "Demo Apparel Supply offers custom cotton T-shirts and polos",
+      "certifications": "Unknown",
+      "production location": "Production is listed as Vietnam with estimated lead time of 45 to 60 days",
+      "lead time": "Production is listed as Vietnam with estimated lead time of 45 to 60 days",
+      "US delivery": "Unknown"
+    },
+    {
+      "Competitor": "Demo Uniform Works",
+      "MOQ": "Its sample MOQ is 250 units",
+      "pricing": "Unknown",
+      "materials": "Unknown",
+      "customization": "Demo Uniform Works focuses on corporate uniforms and embroidery customization",
+      "certifications": "Unknown",
+      "production location": "It lists production in India and shipping to the United States",
+      "lead time": "Unknown",
+      "US delivery": "Unknown"
+    },
+    {
+      "Competitor": "Demo Activewear Co",
+      "MOQ": "Unknown",
+      "pricing": "Unknown",
+      "materials": "It advertises recycled polyester material options and private-label customization",
+      "customization": "It advertises recycled polyester material options and private-label customization",
+      "certifications": "Unknown",
+      "production location": "Unknown",
+      "lead time": "The sample lead time is 30 to 45 days",
+      "US delivery": "Unknown"
+    }
+  ],
+  "evidence_coverage": 0.4583333333333333,
+  "review_notes": [
+    "Coverage is below the 80% target. Treat unsupported fields as follow-up questions, not conclusions."
+  ],
+  "cited_evidence": [
+    {
+      "competitor": "Demo Apparel Supply",
+      "field": "MOQ",
+      "quote": "Typical sample MOQ is 500 units",
+      "url": "https://example.com/demo-apparel-supply"
+    },
+    {
+      "competitor": "Demo Apparel Supply",
+      "field": "materials",
+      "quote": "Demo Apparel Supply offers custom cotton T-shirts and polos",
+      "url": "https://example.com/demo-apparel-supply"
+    },
+    {
+      "competitor": "Demo Uniform Works",
+      "field": "customization",
+      "quote": "Demo Uniform Works focuses on corporate uniforms and embroidery customization",
+      "url": "https://example.com/demo-uniform-works"
+    },
+    {
+      "competitor": "Demo Activewear Co",
+      "field": "lead time",
+      "quote": "The sample lead time is 30 to 45 days",
+      "url": "https://example.com/demo-activewear"
+    }
+  ],
+  "draft_recommendation": "MarketLens compared 3 competitors for Arra Global LLC in United States. Evidence supports 11 of 24 requested comparison points (46%). Use the comparison table to validate commercial terms directly with each supplier before outreach."
+}
