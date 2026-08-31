@@ -11,3 +11,5 @@ llama-index-embeddings-openai>=0.3,<1.0
 llama-index-vector-stores-pinecone>=0.4,<1.0
 pinecone>=6.0,<9.0
 pytest>=8.3,<9.0
+
+-e .
